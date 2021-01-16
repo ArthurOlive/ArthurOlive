@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Arthur Oliveira
+---
+<table>
+  <th>
+    <img src="https://github-readme-stats.vercel.app/api?username=ArthurOlive&show_icons=true&theme=default" width="495px" >
+  </th>
+  <th>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOlive&layout=compact&theme=default"  width=400px>
+  </th>
+</table>
 
 <!--
 **ArthurOlive/ArthurOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

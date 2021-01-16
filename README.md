@@ -2,10 +2,10 @@
 ---
 <table>
   <th>
-    <img src="https://github-readme-stats.vercel.app/api?username=ArthurOlive&show_icons=true&theme=default" width="495px" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ArthurOlive&show_icons=true&theme=dark" width="495px" >
   </th>
   <th>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOlive&layout=compact&theme=default"  width=400px>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOlive&layout=compact&theme=dark"  width=400px>
   </th>
 </table>
 

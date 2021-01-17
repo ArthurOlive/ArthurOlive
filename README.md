@@ -16,7 +16,7 @@
 
 - 👨‍💻 Fullstack web developer.
 - 💻 Spring, React, React Native and Nodejs.
-- 📚 Graduating in Computer Engineering.
+- 📚 Graduating in Computer Science and formed in Tecnology of information at IMD.
 
 <!--
 **ArthurOlive/ArthurOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

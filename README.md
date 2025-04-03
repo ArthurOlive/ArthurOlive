@@ -12,7 +12,7 @@
 </table>
 
 - 👨‍💻 Fullstack web developer.
-- 💻 Spring, React, React Native and Nodejs.
-- 📚 Graduating in Computer Science and formed in Tecnology of information at IMD.
+- 💻 Spring Framework (Java/Kotlin), ReactJs (Typescript).
+- 📚 Graduating in Computer (UFERSA) Science and formed in Tecnology of information at IMD.
  
 ![Snake animation](https://github.com/ArthurOlive/ArthurOlive/blob/output/github-contribution-grid-snake.svg)

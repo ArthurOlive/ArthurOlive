@@ -7,10 +7,10 @@
 
 <table>
   <th>
-    <img src="https://streak-stats.demolab.com?user=ArthurOlive&theme=highcontrast&border_radius=10&exclude_days=Sun%2CSat" />
+    <img src="https://streak-stats.demolab.com?user=ArthurOlive&theme=dark&border_radius=10&exclude_days=Sun%2CSat" />
   </th>
   <th>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOlive&layout=compact&theme=highcontrast&count_private=true"  width=350px>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOlive&layout=compact&theme=dark&count_private=true"  width=350px>
   </th>
 </table>
 
